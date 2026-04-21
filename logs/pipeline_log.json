@@ -1,0 +1,258 @@
+[
+  {
+    "timestamp": "2026-04-18T16:29:55.971033",
+    "query": "Who won the 2020 presidential election in Ghana?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.5518,
+        "text_preview": "\n \n127,853,126\n \n3\n \nParliament of Ghana\n881,059,660\n \n881,344,800\n \n300,144,000\n \n2,062,548,460\n \n4"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.5335,
+        "text_preview": "w Government Communication \n-\n \n11,092,807\n \n155,400,000\n \n166,492,807\n \n2\n \nOffice of the Head of C"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.5322,
+        "text_preview": "0\n \n287,895,392\n \n1,216,515,392\n \no/w Research Department\n84,420,000\n \n57,720,000\n \n142,140,000\n \no/"
+      },
+      {
+        "rank": 4,
+        "source": "budget.pdf",
+        "similarity_score": 0.5289,
+        "text_preview": "024 (GH\u00a2Mn)- Admin \nSector \nSn \nCovered Entity \nOutstanding \nIPC / Invoice \nOutstanding \nBTAs \nTotal"
+      },
+      {
+        "rank": 5,
+        "source": "budget.pdf",
+        "similarity_score": 0.5261,
+        "text_preview": "1\n \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \nOffice of Government Machinery\n225,854.29\n \n194,596.8"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: budget.pdf | Score: 0.5518]\n\n \n127,853,126\n \n3\n \nParliament of Ghana\n881,059,660\n \n881,344,800\n \n300,144,000\n \n2,062,548,460\n \n4\n \nAudit Service\n1,071,216,880\n \n164,088,732\n \n146,181,346\n \n1,381,486,958\n \n5\n \nPublic Services Commission\n17,725,140\n \n6,179,500\n \n18,759,000\n \n72,710\n \n42,736,350\n \n6\n \nElectoral Commission\n152,226,599\n \n144,394,721\n \n9,956,071\n \n6,891,470\n \n313,468,861\n \n7\n \nMinistry of Foreign Affairs\n1,752,093,261\n \n23,569,021\n \n38,771,583\n \n573,525,149\n \n2,387,959,013\n \n8\n \nMinistry of Finance\n1,419,930,971\n \n238,965,674\n \n253,135,492\n \n849,409,820\n \n-\n \n2,761,441,956\n \no/w MoF Hqtrs and Agencies\n1,419,930,971\n \n88,341,841\n \n230,624,692\n \n849,409,820\n \n2,588,307,323\n \no/w Public Interest and Accountability Committee\n9,083,423\n \n-\n \n9,083,423\n \no/w Seed Capital - Women's Development Bank\n100,410,986\n \n\n\n---\n\n[Source: budget.pdf | Score: 0.5335]\nw Government Communication \n-\n \n11,092,807\n \n155,400,000\n \n166,492,807\n \n2\n \nOffice of the Head of Civil Service\n65,704,200\n \n7,988,237\n \n11,100,000\n \n9,463,890\n \n94,256,327\n \n3\n \nParliament of Ghana\n683,946,328\n \n567,000,000\n \n177,600,000\n \n1,630,000\n \n1,430,176,328\n \n4\n \nAudit Service\n831,561,000\n \n105,564,032\n \n86,497,838\n \n14,450,000\n \n1,038,072,870\n \n5\n \nPublic Services Commission\n13,759,618\n \n3,975,489\n \n11,100,000\n \n65,950\n \n5,150,000\n \n34,051,057\n \n6\n \nElectoral Commission\n118,170,004\n \n92,894,185\n \n5,891,166\n \n275,500\n \n217,230,855\n \n7\n \nMinistry of Foreign Affairs\n1,360,109,657\n \n15,162,777\n \n22,941,765\n \n482,474,328\n \n1,880,688,527\n \n8\n \nMinistry of Finance\n1,102,259,720\n \n153,734,993\n \n149,784,315\n \n745,857,437\n \n994,213,057\n \n3,145,849,522\n \no/w MoF Hqtrs and Agencies\n1,102,25\n\n---\n\n[Source: budget.pdf | Score: 0.5322]\n0\n \n287,895,392\n \n1,216,515,392\n \no/w Research Department\n84,420,000\n \n57,720,000\n \n142,140,000\n \no/w Government Communication \n14,864,362\n \n202,020,000\n \n216,884,362\n \n2\n \nOffice of the Head of Civil Service\n74,902,788\n \n10,704,238\n \n14,430,000\n \n10,488,880\n \n110,525,906\n \n3\n \nParliament of Ghana\n779,698,814\n \n759,780,000\n \n230,880,000\n \n1,770,358,814\n \n4\n \nAudit Service\n947,979,540\n \n141,455,803\n \n112,447,189\n \n1,201,882,532\n \n5\n \nPublic Services Commission\n15,685,964\n \n5,327,155\n \n14,430,000\n \n69,250\n \n35,512,370\n \n6\n \nElectoral Commission\n134,713,804\n \n124,478,208\n \n7,658,516\n \n453,770\n \n267,304,299\n \n7\n \nMinistry of Foreign Affairs\n1,550,525,009\n \n20,318,121\n \n29,824,294\n \n526,049,846\n \n2,126,717,271\n \n8\n \nMinistry of Finance\n1,256,576,080\n \n206,004,891\n \n194,719,609\n \n790,156,270\n \n-\n\n---\n\n[Source: budget.pdf | Score: 0.5289]\n024 (GH\u00a2Mn)- Admin \nSector \nSn \nCovered Entity \nOutstanding \nIPC / Invoice \nOutstanding \nBTAs \nTotal \n1 \nOffice of Government Machinery \n192.2 \n575.2 \n767.5 \n2 \nOffice of the Head of Civil Service \n0.0 \n0.7 \n0.7 \n3 \nParliament of Ghana \n0.0 \n231.7 \n231.7 \n4 \nAudit Service \n0.0 \n0.0 \n0.0 \n5 \nPublic Services Commission \n0.0 \n0.0 \n0.0 \n6 \nElectoral Commission \n0.0 \n211.9 \n211.9 \n7 \nMinistry of Foreign Affairs \n101.6 \n47.9 \n149.5 \n8 \nMinistry of Finance \n1,316.2 \n1,582.5 \n2,898.7 \n9 \nMinistry of Local Government, \nChieftaincy and Religious Affairs \n1,399.0 \n36.4 \n1,435.4 \n10 \nNational Media Commission \n0.0 \n0.0 \n0.0 \n11 \nNational Development Planning \nCommission \n0.0 \n0.6 \n0.6 \n12 \nRight to Information Commission \n0.0 \n1.4 \n1.4 \n13 \nTotal \n3,009.0 \n2,688.4 \n5,697.4 \n \nTable 8: Summary of Arrea\n\n---\n\n[Source: budget.pdf | Score: 0.5261]\n1\n \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \nOffice of Government Machinery\n225,854.29\n \n194,596.87\n \n31,257.42\n \n193,130.90\n \n169,611.51\n \n23,519.39\n \n344,836.99\n \n312,178.34\n \n32,658.65\n \nGhana Investment Promotion Centre\n 66 \n80,454.38\n \n53,099.89\n \n27,354.49\n \n64,820.81\n \n47,042.63\n \n17,778.18\n \n74,434.27\n \n49,126.62\n \n25,307.65\n \nNational Identification Authority\n 66 \n8,804.76\n \n5,811.14\n \n2,993.62\n \n14,275.60\n \n9,421.90\n \n4,853.70\n \n19,316.20\n \n12,748.69\n \n6,567.51\n \nGhana Card Project\n 100 \n90,947.98\n \n90,947.98\n \n-\n \n76,943.64\n \n76,943.64\n \n-\n \n205,334.28\n \n205,334.28\n \n-\n \nOffice of the Chief of Staff\n 33 \n372.11\n \n122.80\n \n249.32\n \n320.00\n \n105.60\n \n214.40\n \n360.00\n \n118.80\n \n241.20\n \nState Interest and Governance Authority\n 100 \n333.00\n \n333.00\n \n-\n \n324.42\n \n324.42\n \n-\n \n351.\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: Who won the 2020 presidential election in Ghana?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "\u274c LLM Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}"
+  },
+  {
+    "timestamp": "2026-04-18T16:29:56.143922",
+    "query": "What is Ghana's total revenue in the 2025 budget?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.6935,
+        "text_preview": "Budget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is avai"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.6724,
+        "text_preview": " \n15,258.40\n \n12,969.64\n \n2,288.76\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Project"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.6723,
+        "text_preview": "18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937"
+      },
+      {
+        "rank": 4,
+        "source": "budget.pdf",
+        "similarity_score": 0.6633,
+        "text_preview": "84,758.36\n \n184,758.36\n \n-\n \nGhana Tertiary Education Commission \n 100 \n25,137.97\n \n25,137.97\n \n36,8"
+      },
+      {
+        "rank": 5,
+        "source": "budget.pdf",
+        "similarity_score": 0.6621,
+        "text_preview": "47 25,195,180 7,634,903 76,349,030 \nSecurities and Exchange Commission\n43,518,947\n \n25,195,180\n \n7,6"
+      }
+    ],
+    "prompt_sent_to_llm": "You are an AI assistant for Academic City University.\nYou help students and staff answer questions about Ghana Election Results and Ghana's 2025 Budget.\n\nRETRIEVED CONTEXT:\n[Source: budget.pdf | Score: 0.6935]\nBudget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is available for public access. \n \n \nTo purchase a physical copy, please contact the Ministry\u2019s Public Relations Office at: \n \nMinistry of Finance \nPublic Relations Office \nNew Building, Ground Floor, Rooms 001 and 003 \nP. O. Box MB 40 \nAccra \u2013 Ghana \n \nElectronic copies can be downloaded from our website (www.mofep.gov.gh) \n\n[Page 5]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \ni \n \nTABLE OF CONTENTS \nList of Tables .................................................................................................................. iii \nList of Figures ................................................................................................................. v \nAcronyms and Abbre\n\n---\n\n[Source: budget.pdf | Score: 0.6724]\n \n15,258.40\n \n12,969.64\n \n2,288.76\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 208]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n196 \n \nAppendix 8A: Non-Tax Revenue / Internally Generated Funds (NTR/IGF) 2025-2028 Medium-Term Estimates (GH\u00a2'000)\n \nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\n ADMINISTRATION SECTOR \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \n1,990,591.27\n \n1,830,680.75\n \n159,910.52\n \n2,142,594.03\n \n1,976,105.52\n \n166,488.51\n \n2,342,497.98\n \n2,153,258.04\n \n189,239.93\n \nGhana Revenue Authority\n457,213.20\n \n457,213.20\n \n-\n \n407,294.92\n \n407,294.92\n \n-\n \n448,024.41\n \n448,024.41\n \n-\n \n492,826.86\n \n492,826.86\n \n-\n \n Gha\n\n---\n\n[Source: budget.pdf | Score: 0.6723]\n18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937,366.76\n \n3,172,387.87\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 217]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n205 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \n \n \n \nADMINISTRATION SECTOR\n45,034,569\n \n1,217,527,609\n \n151,720,436\n \n1,414,282,613\n \nOffice of Government Machinery\n - 285,526,338 10,499,909 296,026,247 \nGhana Investment Promotion Centre\n-\n \n46,670,289\n \n2,456,331\n \n49,126,620\n \nGhana Card Project\n-\n \n205,334,280\n \n-\n \n205,334,280\n \nOffice of the Chief of Staff\n-\n \n118,800\n \n-\n \n118,800\n \nState Interest and Governance Authority\n-\n \n351,000\n\n\n---\n\n[Source: budget.pdf | Score: 0.6633]\n84,758.36\n \n184,758.36\n \n-\n \nGhana Tertiary Education Commission \n 100 \n25,137.97\n \n25,137.97\n \n36,827.98\n \n36,827.98\n \n-\n \n41,014.60\n \n41,014.60\n \n-\n \n2024 Projections\n2024 Actual Collection (Jan-Dec)\n2025 Projections\nSector/ Ministry/ Department/ Agency\n\n[Page 204]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n192 \n \nAppendix 7B: Non-Tax Revenue / Internally Generated Funds (NTR/IGF) 2024 Proj Vs Actuals and 2025 Projections (GH\u00a2'000) \n \n \n \n \n Capped \nRetention (%) \nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nSOCIAL SECTOR\n7,985,345.66\n \n7,821,309.51\n \n164,036.15\n \n9,773,235.72\n \n9,626,349.66\n \n146,886.06\n \n8,014,992.76\n \n7,865,439.42\n \n144,475.59\n \n Ministry of Labour, Jobs, and \nEmployment \n12,321.90\n \n7,569.18\n \n4,752.73\n\n\n---\n\n[Source: budget.pdf | Score: 0.6621]\n47 25,195,180 7,634,903 76,349,030 \nSecurities and Exchange Commission\n43,518,947\n \n25,195,180\n \n7,634,903\n \n76,349,030\n \nMinistry of Local Government, Chieftaincy, \nand Religious Affairs\n 5,760,000 23,554,650 144,000 29,458,650 \nBirths and Deaths Registry\n-\n \n8,997,400\n \n-\n \n8,997,400\n \nDept. of Parks and Gardens\n-\n \n494,200\n \n-\n \n494,200\n \nInstitute of Local Government Studies\n5,760,000\n \n7,920,000\n \n144,000\n \n13,824,000\n \nLand Use and Spatial Planning\n-\n \n6,143,050\n \n-\n \n6,143,050\n \nSector/Ministry/Department/Agency\n Employee \nCompensation \n Goods and \nServices \n CAPEX \n Grand Total \n\n[Page 232]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n220 \n \nAppendix 8D: 2027 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \nECONOMIC SECTOR\n834,393,900\n \n1,\n\nINSTRUCTIONS:\n- Answer ONLY using the context provided above\n- If the context does not contain enough information, say: \"I don't have enough information to answer that.\"\n- Do NOT make up facts or figures\n- Be concise and factual\n- Cite which source your answer comes from (Election Data or Budget Document)\n\nUSER QUESTION: What is Ghana's total revenue in the 2025 budget?\n\nANSWER:",
+    "llm_response": "\u274c LLM Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}"
+  },
+  {
+    "timestamp": "2026-04-18T16:29:56.350876",
+    "query": "Who is the best?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "Ghana_Election_Result.csv",
+        "similarity_score": 0.368,
+        "text_preview": "Year: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: A"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.3674,
+        "text_preview": "r \npresented in an African Games. Ghana participated in 23 sports disciplines and placed \n6th on the"
+      },
+      {
+        "rank": 3,
+        "source": "Ghana_Election_Result.csv",
+        "similarity_score": 0.3659,
+        "text_preview": "Year: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Alfred"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: Ghana_Election_Result.csv | Score: 0.368]\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Alfred Kwame Asiedu Walker, Party: IND, Votes: 446, Votes(%): 0.09%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Percival Kofi Akpaloo, Party: LPG, Votes: 328, Votes(%): 0.07%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Hassan Ayariga, Party: APC, Votes: 463, Votes(%): 0.10%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Bridget Dzogbenuku, Party: PPP, Votes: 239, Votes(%): 0.05%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Akua Donkor, Party: GFP, Votes: 167, Votes(%): 0.04%\n\n---\n\n[Source: budget.pdf | Score: 0.3674]\nr \npresented in an African Games. Ghana participated in 23 sports disciplines and placed \n6th on the medals table with 69 medals comprising 19 gold, 29 silver and 21 bronze, \nthe best of Ghana\u2019s performance at an international multi sports event. In all, 53 \nAfrican countries participated in the Games. \n659. The following facilities were completed to support the hosting of the games: the \ninternational standard multi-complex sports facility at Borteyman, the Rugby pitch and \nsports facilities at the University of Ghana, and the cricket pavilions at the Achimota \nSchool Oval. \n \n660. Mr. Speaker, The Black Challenge of Ghana participated in the 2024 African Amputee \nFootball Cup of Nations tournament hosted and organised in Egypt from 18th to 30th \nMay 2024 and won the trophy. The win has s\n\n---\n\n[Source: Ghana_Election_Result.csv | Score: 0.3659]\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Alfred Kwame Asiedu Walker, Party: IND, Votes: 374, Votes(%): 0.07%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Percival Kofi Akpaloo, Party: LPG, Votes: 216, Votes(%): 0.04%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Hassan Ayariga, Party: APC, Votes: 255, Votes(%): 0.05%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Bridget Dzogbenuku, Party: PPP, Votes: 214, Votes(%): 0.04%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Akua Donkor, Party: GFP, Votes: 165, Votes(%): 0.03%\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: Who is the best?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "\u274c LLM Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}"
+  },
+  {
+    "timestamp": "2026-04-18T16:29:56.644123",
+    "query": "What was Ghana's budget in 1990?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.664,
+        "text_preview": "Budget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is avai"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.6375,
+        "text_preview": "ommission\n40,612,877\n \n24,381,139\n \n8,888,224\n \n73,882,240\n \nMinistry of Local Government, Chieftain"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.6297,
+        "text_preview": "18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: budget.pdf | Score: 0.664]\nBudget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is available for public access. \n \n \nTo purchase a physical copy, please contact the Ministry\u2019s Public Relations Office at: \n \nMinistry of Finance \nPublic Relations Office \nNew Building, Ground Floor, Rooms 001 and 003 \nP. O. Box MB 40 \nAccra \u2013 Ghana \n \nElectronic copies can be downloaded from our website (www.mofep.gov.gh) \n\n[Page 5]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \ni \n \nTABLE OF CONTENTS \nList of Tables .................................................................................................................. iii \nList of Figures ................................................................................................................. v \nAcronyms and Abbre\n\n---\n\n[Source: budget.pdf | Score: 0.6375]\nommission\n40,612,877\n \n24,381,139\n \n8,888,224\n \n73,882,240\n \nMinistry of Local Government, Chieftaincy, \nand Religious Affairs\n 4,000,000 17,830,700 100,000 21,930,700 \nBirths and Deaths Registry\n-\n \n6,909,170\n \n-\n \n6,909,170\n \nDept. of Parks and Gardens\n-\n \n463,520\n \n-\n \n463,520\n \nInstitute of Local Government Studies\n4,000,000\n \n5,500,000\n \n100,000\n \n9,600,000\n \nLand Use and Spatial Planning\n-\n \n4,958,010\n \n-\n \n4,958,010\n \nSector/Ministry/Department/Agency\n Employee \nCompensation \n Goods and \nServices \nCAPEX\nGrand Total\n\n[Page 218]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n206 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \nECONOMIC SECTOR\n765,999,135\n \n1,064,596,710\n \n502,503,366\n \n2,333,099,211\n \nMinistry of Food and A\n\n---\n\n[Source: budget.pdf | Score: 0.6297]\n18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937,366.76\n \n3,172,387.87\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 217]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n205 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \n \n \n \nADMINISTRATION SECTOR\n45,034,569\n \n1,217,527,609\n \n151,720,436\n \n1,414,282,613\n \nOffice of Government Machinery\n - 285,526,338 10,499,909 296,026,247 \nGhana Investment Promotion Centre\n-\n \n46,670,289\n \n2,456,331\n \n49,126,620\n \nGhana Card Project\n-\n \n205,334,280\n \n-\n \n205,334,280\n \nOffice of the Chief of Staff\n-\n \n118,800\n \n-\n \n118,800\n \nState Interest and Governance Authority\n-\n \n351,000\n\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: What was Ghana's budget in 1990?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "\u274c LLM Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}"
+  },
+  {
+    "timestamp": "2026-04-18T16:32:42.956971",
+    "query": "Who won the 2020 presidential election in Ghana?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.5518,
+        "text_preview": "\n \n127,853,126\n \n3\n \nParliament of Ghana\n881,059,660\n \n881,344,800\n \n300,144,000\n \n2,062,548,460\n \n4"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.5335,
+        "text_preview": "w Government Communication \n-\n \n11,092,807\n \n155,400,000\n \n166,492,807\n \n2\n \nOffice of the Head of C"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.5322,
+        "text_preview": "0\n \n287,895,392\n \n1,216,515,392\n \no/w Research Department\n84,420,000\n \n57,720,000\n \n142,140,000\n \no/"
+      },
+      {
+        "rank": 4,
+        "source": "budget.pdf",
+        "similarity_score": 0.5289,
+        "text_preview": "024 (GH\u00a2Mn)- Admin \nSector \nSn \nCovered Entity \nOutstanding \nIPC / Invoice \nOutstanding \nBTAs \nTotal"
+      },
+      {
+        "rank": 5,
+        "source": "budget.pdf",
+        "similarity_score": 0.5261,
+        "text_preview": "1\n \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \nOffice of Government Machinery\n225,854.29\n \n194,596.8"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: budget.pdf | Score: 0.5518]\n\n \n127,853,126\n \n3\n \nParliament of Ghana\n881,059,660\n \n881,344,800\n \n300,144,000\n \n2,062,548,460\n \n4\n \nAudit Service\n1,071,216,880\n \n164,088,732\n \n146,181,346\n \n1,381,486,958\n \n5\n \nPublic Services Commission\n17,725,140\n \n6,179,500\n \n18,759,000\n \n72,710\n \n42,736,350\n \n6\n \nElectoral Commission\n152,226,599\n \n144,394,721\n \n9,956,071\n \n6,891,470\n \n313,468,861\n \n7\n \nMinistry of Foreign Affairs\n1,752,093,261\n \n23,569,021\n \n38,771,583\n \n573,525,149\n \n2,387,959,013\n \n8\n \nMinistry of Finance\n1,419,930,971\n \n238,965,674\n \n253,135,492\n \n849,409,820\n \n-\n \n2,761,441,956\n \no/w MoF Hqtrs and Agencies\n1,419,930,971\n \n88,341,841\n \n230,624,692\n \n849,409,820\n \n2,588,307,323\n \no/w Public Interest and Accountability Committee\n9,083,423\n \n-\n \n9,083,423\n \no/w Seed Capital - Women's Development Bank\n100,410,986\n \n\n\n---\n\n[Source: budget.pdf | Score: 0.5335]\nw Government Communication \n-\n \n11,092,807\n \n155,400,000\n \n166,492,807\n \n2\n \nOffice of the Head of Civil Service\n65,704,200\n \n7,988,237\n \n11,100,000\n \n9,463,890\n \n94,256,327\n \n3\n \nParliament of Ghana\n683,946,328\n \n567,000,000\n \n177,600,000\n \n1,630,000\n \n1,430,176,328\n \n4\n \nAudit Service\n831,561,000\n \n105,564,032\n \n86,497,838\n \n14,450,000\n \n1,038,072,870\n \n5\n \nPublic Services Commission\n13,759,618\n \n3,975,489\n \n11,100,000\n \n65,950\n \n5,150,000\n \n34,051,057\n \n6\n \nElectoral Commission\n118,170,004\n \n92,894,185\n \n5,891,166\n \n275,500\n \n217,230,855\n \n7\n \nMinistry of Foreign Affairs\n1,360,109,657\n \n15,162,777\n \n22,941,765\n \n482,474,328\n \n1,880,688,527\n \n8\n \nMinistry of Finance\n1,102,259,720\n \n153,734,993\n \n149,784,315\n \n745,857,437\n \n994,213,057\n \n3,145,849,522\n \no/w MoF Hqtrs and Agencies\n1,102,25\n\n---\n\n[Source: budget.pdf | Score: 0.5322]\n0\n \n287,895,392\n \n1,216,515,392\n \no/w Research Department\n84,420,000\n \n57,720,000\n \n142,140,000\n \no/w Government Communication \n14,864,362\n \n202,020,000\n \n216,884,362\n \n2\n \nOffice of the Head of Civil Service\n74,902,788\n \n10,704,238\n \n14,430,000\n \n10,488,880\n \n110,525,906\n \n3\n \nParliament of Ghana\n779,698,814\n \n759,780,000\n \n230,880,000\n \n1,770,358,814\n \n4\n \nAudit Service\n947,979,540\n \n141,455,803\n \n112,447,189\n \n1,201,882,532\n \n5\n \nPublic Services Commission\n15,685,964\n \n5,327,155\n \n14,430,000\n \n69,250\n \n35,512,370\n \n6\n \nElectoral Commission\n134,713,804\n \n124,478,208\n \n7,658,516\n \n453,770\n \n267,304,299\n \n7\n \nMinistry of Foreign Affairs\n1,550,525,009\n \n20,318,121\n \n29,824,294\n \n526,049,846\n \n2,126,717,271\n \n8\n \nMinistry of Finance\n1,256,576,080\n \n206,004,891\n \n194,719,609\n \n790,156,270\n \n-\n\n---\n\n[Source: budget.pdf | Score: 0.5289]\n024 (GH\u00a2Mn)- Admin \nSector \nSn \nCovered Entity \nOutstanding \nIPC / Invoice \nOutstanding \nBTAs \nTotal \n1 \nOffice of Government Machinery \n192.2 \n575.2 \n767.5 \n2 \nOffice of the Head of Civil Service \n0.0 \n0.7 \n0.7 \n3 \nParliament of Ghana \n0.0 \n231.7 \n231.7 \n4 \nAudit Service \n0.0 \n0.0 \n0.0 \n5 \nPublic Services Commission \n0.0 \n0.0 \n0.0 \n6 \nElectoral Commission \n0.0 \n211.9 \n211.9 \n7 \nMinistry of Foreign Affairs \n101.6 \n47.9 \n149.5 \n8 \nMinistry of Finance \n1,316.2 \n1,582.5 \n2,898.7 \n9 \nMinistry of Local Government, \nChieftaincy and Religious Affairs \n1,399.0 \n36.4 \n1,435.4 \n10 \nNational Media Commission \n0.0 \n0.0 \n0.0 \n11 \nNational Development Planning \nCommission \n0.0 \n0.6 \n0.6 \n12 \nRight to Information Commission \n0.0 \n1.4 \n1.4 \n13 \nTotal \n3,009.0 \n2,688.4 \n5,697.4 \n \nTable 8: Summary of Arrea\n\n---\n\n[Source: budget.pdf | Score: 0.5261]\n1\n \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \nOffice of Government Machinery\n225,854.29\n \n194,596.87\n \n31,257.42\n \n193,130.90\n \n169,611.51\n \n23,519.39\n \n344,836.99\n \n312,178.34\n \n32,658.65\n \nGhana Investment Promotion Centre\n 66 \n80,454.38\n \n53,099.89\n \n27,354.49\n \n64,820.81\n \n47,042.63\n \n17,778.18\n \n74,434.27\n \n49,126.62\n \n25,307.65\n \nNational Identification Authority\n 66 \n8,804.76\n \n5,811.14\n \n2,993.62\n \n14,275.60\n \n9,421.90\n \n4,853.70\n \n19,316.20\n \n12,748.69\n \n6,567.51\n \nGhana Card Project\n 100 \n90,947.98\n \n90,947.98\n \n-\n \n76,943.64\n \n76,943.64\n \n-\n \n205,334.28\n \n205,334.28\n \n-\n \nOffice of the Chief of Staff\n 33 \n372.11\n \n122.80\n \n249.32\n \n320.00\n \n105.60\n \n214.40\n \n360.00\n \n118.80\n \n241.20\n \nState Interest and Governance Authority\n 100 \n333.00\n \n333.00\n \n-\n \n324.42\n \n324.42\n \n-\n \n351.\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: Who won the 2020 presidential election in Ghana?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "The provided documents do not contain this information. [Budget Document]"
+  },
+  {
+    "timestamp": "2026-04-18T16:32:43.684610",
+    "query": "What is Ghana's total revenue in the 2025 budget?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.6935,
+        "text_preview": "Budget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is avai"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.6724,
+        "text_preview": " \n15,258.40\n \n12,969.64\n \n2,288.76\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Project"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.6723,
+        "text_preview": "18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937"
+      },
+      {
+        "rank": 4,
+        "source": "budget.pdf",
+        "similarity_score": 0.6633,
+        "text_preview": "84,758.36\n \n184,758.36\n \n-\n \nGhana Tertiary Education Commission \n 100 \n25,137.97\n \n25,137.97\n \n36,8"
+      },
+      {
+        "rank": 5,
+        "source": "budget.pdf",
+        "similarity_score": 0.6621,
+        "text_preview": "47 25,195,180 7,634,903 76,349,030 \nSecurities and Exchange Commission\n43,518,947\n \n25,195,180\n \n7,6"
+      }
+    ],
+    "prompt_sent_to_llm": "You are an AI assistant for Academic City University.\nYou help students and staff answer questions about Ghana Election Results and Ghana's 2025 Budget.\n\nRETRIEVED CONTEXT:\n[Source: budget.pdf | Score: 0.6935]\nBudget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is available for public access. \n \n \nTo purchase a physical copy, please contact the Ministry\u2019s Public Relations Office at: \n \nMinistry of Finance \nPublic Relations Office \nNew Building, Ground Floor, Rooms 001 and 003 \nP. O. Box MB 40 \nAccra \u2013 Ghana \n \nElectronic copies can be downloaded from our website (www.mofep.gov.gh) \n\n[Page 5]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \ni \n \nTABLE OF CONTENTS \nList of Tables .................................................................................................................. iii \nList of Figures ................................................................................................................. v \nAcronyms and Abbre\n\n---\n\n[Source: budget.pdf | Score: 0.6724]\n \n15,258.40\n \n12,969.64\n \n2,288.76\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 208]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n196 \n \nAppendix 8A: Non-Tax Revenue / Internally Generated Funds (NTR/IGF) 2025-2028 Medium-Term Estimates (GH\u00a2'000)\n \nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\n ADMINISTRATION SECTOR \n1,573,120.42\n \n1,427,031.31\n \n146,089.11\n \n1,990,591.27\n \n1,830,680.75\n \n159,910.52\n \n2,142,594.03\n \n1,976,105.52\n \n166,488.51\n \n2,342,497.98\n \n2,153,258.04\n \n189,239.93\n \nGhana Revenue Authority\n457,213.20\n \n457,213.20\n \n-\n \n407,294.92\n \n407,294.92\n \n-\n \n448,024.41\n \n448,024.41\n \n-\n \n492,826.86\n \n492,826.86\n \n-\n \n Gha\n\n---\n\n[Source: budget.pdf | Score: 0.6723]\n18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937,366.76\n \n3,172,387.87\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 217]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n205 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \n \n \n \nADMINISTRATION SECTOR\n45,034,569\n \n1,217,527,609\n \n151,720,436\n \n1,414,282,613\n \nOffice of Government Machinery\n - 285,526,338 10,499,909 296,026,247 \nGhana Investment Promotion Centre\n-\n \n46,670,289\n \n2,456,331\n \n49,126,620\n \nGhana Card Project\n-\n \n205,334,280\n \n-\n \n205,334,280\n \nOffice of the Chief of Staff\n-\n \n118,800\n \n-\n \n118,800\n \nState Interest and Governance Authority\n-\n \n351,000\n\n\n---\n\n[Source: budget.pdf | Score: 0.6633]\n84,758.36\n \n184,758.36\n \n-\n \nGhana Tertiary Education Commission \n 100 \n25,137.97\n \n25,137.97\n \n36,827.98\n \n36,827.98\n \n-\n \n41,014.60\n \n41,014.60\n \n-\n \n2024 Projections\n2024 Actual Collection (Jan-Dec)\n2025 Projections\nSector/ Ministry/ Department/ Agency\n\n[Page 204]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n192 \n \nAppendix 7B: Non-Tax Revenue / Internally Generated Funds (NTR/IGF) 2024 Proj Vs Actuals and 2025 Projections (GH\u00a2'000) \n \n \n \n \n Capped \nRetention (%) \nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nCollection\nRetention\nLodgement\nSOCIAL SECTOR\n7,985,345.66\n \n7,821,309.51\n \n164,036.15\n \n9,773,235.72\n \n9,626,349.66\n \n146,886.06\n \n8,014,992.76\n \n7,865,439.42\n \n144,475.59\n \n Ministry of Labour, Jobs, and \nEmployment \n12,321.90\n \n7,569.18\n \n4,752.73\n\n\n---\n\n[Source: budget.pdf | Score: 0.6621]\n47 25,195,180 7,634,903 76,349,030 \nSecurities and Exchange Commission\n43,518,947\n \n25,195,180\n \n7,634,903\n \n76,349,030\n \nMinistry of Local Government, Chieftaincy, \nand Religious Affairs\n 5,760,000 23,554,650 144,000 29,458,650 \nBirths and Deaths Registry\n-\n \n8,997,400\n \n-\n \n8,997,400\n \nDept. of Parks and Gardens\n-\n \n494,200\n \n-\n \n494,200\n \nInstitute of Local Government Studies\n5,760,000\n \n7,920,000\n \n144,000\n \n13,824,000\n \nLand Use and Spatial Planning\n-\n \n6,143,050\n \n-\n \n6,143,050\n \nSector/Ministry/Department/Agency\n Employee \nCompensation \n Goods and \nServices \n CAPEX \n Grand Total \n\n[Page 232]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n220 \n \nAppendix 8D: 2027 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \nECONOMIC SECTOR\n834,393,900\n \n1,\n\nINSTRUCTIONS:\n- Answer ONLY using the context provided above\n- If the context does not contain enough information, say: \"I don't have enough information to answer that.\"\n- Do NOT make up facts or figures\n- Be concise and factual\n- Cite which source your answer comes from (Election Data or Budget Document)\n\nUSER QUESTION: What is Ghana's total revenue in the 2025 budget?\n\nANSWER:",
+    "llm_response": "I don't have enough information to answer that. (Budget Document)\n\nThe provided context does not contain the total revenue for the 2025 budget. It only provides specific details about certain sectors and ministries, but not the overall total revenue."
+  },
+  {
+    "timestamp": "2026-04-18T16:32:44.414933",
+    "query": "Who is the best?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "Ghana_Election_Result.csv",
+        "similarity_score": 0.368,
+        "text_preview": "Year: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: A"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.3674,
+        "text_preview": "r \npresented in an African Games. Ghana participated in 23 sports disciplines and placed \n6th on the"
+      },
+      {
+        "rank": 3,
+        "source": "Ghana_Election_Result.csv",
+        "similarity_score": 0.3659,
+        "text_preview": "Year: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Alfred"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: Ghana_Election_Result.csv | Score: 0.368]\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Alfred Kwame Asiedu Walker, Party: IND, Votes: 446, Votes(%): 0.09%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Percival Kofi Akpaloo, Party: LPG, Votes: 328, Votes(%): 0.07%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Hassan Ayariga, Party: APC, Votes: 463, Votes(%): 0.10%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Bridget Dzogbenuku, Party: PPP, Votes: 239, Votes(%): 0.05%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono East\u00a0Region, Code: Others, Candidate: Akua Donkor, Party: GFP, Votes: 167, Votes(%): 0.04%\n\n---\n\n[Source: budget.pdf | Score: 0.3674]\nr \npresented in an African Games. Ghana participated in 23 sports disciplines and placed \n6th on the medals table with 69 medals comprising 19 gold, 29 silver and 21 bronze, \nthe best of Ghana\u2019s performance at an international multi sports event. In all, 53 \nAfrican countries participated in the Games. \n659. The following facilities were completed to support the hosting of the games: the \ninternational standard multi-complex sports facility at Borteyman, the Rugby pitch and \nsports facilities at the University of Ghana, and the cricket pavilions at the Achimota \nSchool Oval. \n \n660. Mr. Speaker, The Black Challenge of Ghana participated in the 2024 African Amputee \nFootball Cup of Nations tournament hosted and organised in Egypt from 18th to 30th \nMay 2024 and won the trophy. The win has s\n\n---\n\n[Source: Ghana_Election_Result.csv | Score: 0.3659]\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Alfred Kwame Asiedu Walker, Party: IND, Votes: 374, Votes(%): 0.07%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Percival Kofi Akpaloo, Party: LPG, Votes: 216, Votes(%): 0.04%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Hassan Ayariga, Party: APC, Votes: 255, Votes(%): 0.05%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Bridget Dzogbenuku, Party: PPP, Votes: 214, Votes(%): 0.04%\nYear: 2020, Old Region: Brong Ahafo Region, New Region: Bono\u00a0Region, Code: Others, Candidate: Akua Donkor, Party: GFP, Votes: 165, Votes(%): 0.03%\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: Who is the best?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "The provided documents do not contain information to determine who is the \"best\". The documents provide information on election results [Election Data] and sports achievements [Budget Document], but do not contain a comparison or ranking of individuals in a way that would determine an overall \"best\" person."
+  },
+  {
+    "timestamp": "2026-04-18T16:32:45.052747",
+    "query": "What was Ghana's budget in 1990?",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "source": "budget.pdf",
+        "similarity_score": 0.664,
+        "text_preview": "Budget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is avai"
+      },
+      {
+        "rank": 2,
+        "source": "budget.pdf",
+        "similarity_score": 0.6375,
+        "text_preview": "ommission\n40,612,877\n \n24,381,139\n \n8,888,224\n \n73,882,240\n \nMinistry of Local Government, Chieftain"
+      },
+      {
+        "rank": 3,
+        "source": "budget.pdf",
+        "similarity_score": 0.6297,
+        "text_preview": "18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937"
+      }
+    ],
+    "prompt_sent_to_llm": "You are a precise AI assistant for Academic City University.\nYour knowledge is LIMITED to the documents provided below. Do not use outside knowledge.\n\n--- START OF RETRIEVED DOCUMENTS ---\n[Source: budget.pdf | Score: 0.664]\nBudget Statement and Economic Policy of the Government of Ghana for the 2025 \nFinancial Year is available for public access. \n \n \nTo purchase a physical copy, please contact the Ministry\u2019s Public Relations Office at: \n \nMinistry of Finance \nPublic Relations Office \nNew Building, Ground Floor, Rooms 001 and 003 \nP. O. Box MB 40 \nAccra \u2013 Ghana \n \nElectronic copies can be downloaded from our website (www.mofep.gov.gh) \n\n[Page 5]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \ni \n \nTABLE OF CONTENTS \nList of Tables .................................................................................................................. iii \nList of Figures ................................................................................................................. v \nAcronyms and Abbre\n\n---\n\n[Source: budget.pdf | Score: 0.6375]\nommission\n40,612,877\n \n24,381,139\n \n8,888,224\n \n73,882,240\n \nMinistry of Local Government, Chieftaincy, \nand Religious Affairs\n 4,000,000 17,830,700 100,000 21,930,700 \nBirths and Deaths Registry\n-\n \n6,909,170\n \n-\n \n6,909,170\n \nDept. of Parks and Gardens\n-\n \n463,520\n \n-\n \n463,520\n \nInstitute of Local Government Studies\n4,000,000\n \n5,500,000\n \n100,000\n \n9,600,000\n \nLand Use and Spatial Planning\n-\n \n4,958,010\n \n-\n \n4,958,010\n \nSector/Ministry/Department/Agency\n Employee \nCompensation \n Goods and \nServices \nCAPEX\nGrand Total\n\n[Page 218]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n206 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \nECONOMIC SECTOR\n765,999,135\n \n1,064,596,710\n \n502,503,366\n \n2,333,099,211\n \nMinistry of Food and A\n\n---\n\n[Source: budget.pdf | Score: 0.6297]\n18,180,717.61\n \n2,766,101.11\n \n23,364,598.19\n \n20,404,830.50\n \n2,959,767.69\n \n25,109,754.63\n \n21,937,366.76\n \n3,172,387.87\n \n2025 Projections\n2026 Projections\n2027 Projections\n2028 Projections\nSector/Ministry/ \nDepartment/Agency\n\n[Page 217]\nResetting the Economy for the Ghana We Want \n \n2025 Budget \n205 \n \nAppendix 8B: 2025 Internally Generated Funds Retention (Expenditure) Breakdown by \nMDAS \n \n \n \n \n \n \nADMINISTRATION SECTOR\n45,034,569\n \n1,217,527,609\n \n151,720,436\n \n1,414,282,613\n \nOffice of Government Machinery\n - 285,526,338 10,499,909 296,026,247 \nGhana Investment Promotion Centre\n-\n \n46,670,289\n \n2,456,331\n \n49,126,620\n \nGhana Card Project\n-\n \n205,334,280\n \n-\n \n205,334,280\n \nOffice of the Chief of Staff\n-\n \n118,800\n \n-\n \n118,800\n \nState Interest and Governance Authority\n-\n \n351,000\n\n--- END OF RETRIEVED DOCUMENTS ---\n\nSTRICT RULES:\n1. Only use facts found in the documents above\n2. If unsure, say exactly: \"The provided documents do not contain this information.\"\n3. Never guess or estimate figures\n4. Always mention the source: [Election Data] or [Budget Document]\n5. Keep answers under 150 words\n\nQUESTION: What was Ghana's budget in 1990?\n\nANSWER (based strictly on documents above):",
+    "llm_response": "The provided documents do not contain this information. [Budget Document] only mentions the 2025 budget and projections for subsequent years, but does not provide information on the 1990 budget."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-04-21T11:59:23.488361",
+    "query": "who won the election in 2020",
+    "response": "The documents do not contain the overall national results, but they provide regional results. Based on the regional results, it appears that Nana Akufo Addo (NPP) won in some regions, such as the North East Region [Election Data] and the Eastern Region [Election Data], while John Dramani Mahama (NDC) won in other regions, such as the Upper East Region [Election Data] and the Upper West Region [Election Data]. However, without the national results, it is unclear who won the overall election. [Election Data]",
+    "sources": [
+      "Ghana_Election_Result.csv"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21T11:59:35.030424",
+    "query": "what party was he",
+    "response": "The documents do not contain this information. The previous conversation mentioned Nana Akufo Addo, but the current question is unclear about who \"he\" refers to. [Election Data]",
+    "sources": [
+      "Ghana_Election_Result.csv"
+    ]
+  },
+  {
+    "timestamp": "2026-04-21T11:59:42.410148",
+    "query": "okay",
+    "response": "The documents do not contain this information. It seems like you didn't ask a specific question. Please feel free to ask about Ghana Election Results or Ghana's 2025 Budget, and I'll do my best to assist you using the provided documents. [Budget Document]",
+    "sources": [
+      "budget.pdf"
+    ]
+  }
+]

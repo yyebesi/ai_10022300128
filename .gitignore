@@ -1,0 +1,5 @@
+echo ".env
+venv/
+__pycache__/
+*.pyc
+logs/memory.json" > .gitignores

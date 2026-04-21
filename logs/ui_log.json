@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-04-18T16:45:05.156012",
+    "query": "who won the election in 2020",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The data provided does not explicitly state who won the election in 2020. However, based on the votes and percentages provided for each region, it appears that Nana Akufo Addo (NPP) and John Dramani Mahama (NDC) were the top two candidates. \n\nTo determine the overall winner, more information would be needed. [Source: Ghana_Election_Result.csv] \n\nI don't have enough information to answer that."
+  },
+  {
+    "timestamp": "2026-04-18T16:45:18.413593",
+    "query": "who is cassiel ato forson",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "Cassiel Ato Forson is the Minister for Finance, as stated in the 2025 Budget document presented to Parliament. [Source: budget.pdf]"
+  },
+  {
+    "timestamp": "2026-04-18T16:45:36.617346",
+    "query": "what main topics were addressed in the 2025 budget",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The main topics addressed in the 2025 budget include: \n1. the state of the Ghanaian economy in 2024; \n2. macroeconomic policies, targets, and measures for 2025 and the medium-term; \n3. policy initiatives and budget allocations; and \n4. sectoral performance and outlook. \n\n[Source: budget.pdf | Score: 0.7366]"
+  },
+  {
+    "timestamp": "2026-04-18T16:46:01.557755",
+    "query": "what was the state of the ghanaian economy in 2024",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The state of the Ghanaian economy in 2024 included: \n- Overall real GDP growth rate of 3.1 percent; \n- Overall Non-Oil real GDP growth rate of 2.8 percent; \n- End-period December year-on-year inflation of 15.0 percent; \n- Overall budget deficit (Commitment basis) of 4.2 percent of GDP; \n- Primary balance surplus (Commitment basis) of 0.5 percent of GDP. \n(Budget Document, Page 22)"
+  },
+  {
+    "timestamp": "2026-04-18T16:46:22.317716",
+    "query": "what are the policy initatives for 20205",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The policy initiatives for 2025 include: \n- Presenting the 24-Hour Economy policy to Parliament \n- Reviewing the Labour Act, the Ghana Investment Promotion Centre Act, and other enabling legislations \n- Submitting a Bill to provide a legal framework for the establishment of the Ghana Gold Board \n- Rationalising the management of compensation of employees, including conducting headcounts \n- Resetting the economy for a more efficient and export-driven industrial economy (Source: budget.pdf)"
+  },
+  {
+    "timestamp": "2026-04-18T16:46:41.076524",
+    "query": "explain the 24 hour economy policy",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "I don't have enough information to answer that. The context provided mentions the \"24-Hour Economy initiative\" as part of the medium-term GDP outlook, but it does not provide a detailed explanation of the policy. (Budget Document)"
+  },
+  {
+    "timestamp": "2026-04-18T16:47:11.318222",
+    "query": "what was incluced in the gdp outlook",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The GDP outlook included a projected real GDP growth of 4.8 percent over the period (2025-2028), with a moderation from 5.7 percent in 2024 to 4.0 percent in 2025, and a rebound to around 5.0 percent from 2026 to 2028. (Source: Budget Document, page 79)"
+  },
+  {
+    "timestamp": "2026-04-18T16:47:39.388306",
+    "query": "which regions voted in the 2004 election",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The following regions voted in the 2004 election: \n1. Northern Region \n2. Upper East Region \n3. Brong Ahafo Region \n4. Central Region \n5. Eastern Region \n6. Upper West Region \n7. Greater Accra Region \n\n[Source: Ghana_Election_Result.csv]"
+  },
+  {
+    "timestamp": "2026-04-18T16:48:00.476024",
+    "query": "who won in the upper west region in 2004",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "In the Upper West Region in 2004, J. A. Mills of the NDC party won with 119982 votes (56.67%). [Source: Ghana_Election_Result.csv | Score: 0.5125]"
+  },
+  {
+    "timestamp": "2026-04-18T16:48:13.532274",
+    "query": "who is J. A. Mills?",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "I don't have enough information to answer that. (The context provided does not mention J. A. Mills)"
+  },
+  {
+    "timestamp": "2026-04-18T16:48:30.947943",
+    "query": "Which parties contested in 2004",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "The parties that contested in 2004 are: \n1. NPP (New Patriotic Party) \n2. NDC (National Democratic Congress) \n3. PNC (People's National Convention) \n4. CPP (Convention People's Party)\n\n[Source: Ghana_Election_Result.csv]"
+  },
+  {
+    "timestamp": "2026-04-18T16:48:47.106393",
+    "query": "What years did PNC contest in elections?",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "PNC contested in elections in the following years: 1996, 2000, and 2004. \n\n[Source: Ghana_Election_Result.csv | Score: 0.4468, 0.4469, 0.4545]"
+  },
+  {
+    "timestamp": "2026-04-18T16:48:59.886847",
+    "query": "Which years didnt they contest?",
+    "template": "standard",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "I don't have enough information to answer that. \n\nThe provided context only contains election data for the year 1992, and does not mention any other years. (Election Data)"
+  },
+  {
+    "timestamp": "2026-04-21T11:46:21.803090",
+    "query": "who won the 2020 election in the brong ahafo region",
+    "template": "strict",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "In the Ahafo Region, which was part of the Brong Ahafo Region, Nana Akufo Addo of the NPP won with 145584 votes (55.04%) [Election Data]. John Dramani Mahama of the NDC received 116485 votes (44.04%) [Election Data]."
+  },
+  {
+    "timestamp": "2026-04-21T11:46:32.665734",
+    "query": "what are you?",
+    "template": "strict",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "response": "I am a precise AI assistant for Academic City University. [No specific source document contains this information, but it is given in the context]"
+  },
+  {
+    "timestamp": "2026-04-21T11:59:23.497344",
+    "query": "who won the election in 2020",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "memory_turns": 1,
+    "response": "The documents do not contain the overall national results, but they provide regional results. Based on the regional results, it appears that Nana Akufo Addo (NPP) won in some regions, such as the North East Region [Election Data] and the Eastern Region [Election Data], while John Dramani Mahama (NDC) won in other regions, such as the Upper East Region [Election Data] and the Upper West Region [Election Data]. However, without the national results, it is unclear who won the overall election. [Election Data]"
+  },
+  {
+    "timestamp": "2026-04-21T11:59:35.037630",
+    "query": "what party was he",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "memory_turns": 2,
+    "response": "The documents do not contain this information. The previous conversation mentioned Nana Akufo Addo, but the current question is unclear about who \"he\" refers to. [Election Data]"
+  },
+  {
+    "timestamp": "2026-04-21T11:59:42.416389",
+    "query": "okay",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "memory_turns": 3,
+    "response": "The documents do not contain this information. It seems like you didn't ask a specific question. Please feel free to ask about Ghana Election Results or Ghana's 2025 Budget, and I'll do my best to assist you using the provided documents. [Budget Document]"
+  }
+]
