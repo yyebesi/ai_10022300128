@@ -142,5 +142,13 @@
     "chunks_retrieved": 5,
     "memory_turns": 3,
     "response": "The documents do not contain this information. It seems like you didn't ask a specific question. Please feel free to ask about Ghana Election Results or Ghana's 2025 Budget, and I'll do my best to assist you using the provided documents. [Budget Document]"
+  },
+  {
+    "timestamp": "2026-04-24T22:51:52.716135",
+    "query": "who won the election in the brong ahafo region in 2020",
+    "top_k": 5,
+    "chunks_retrieved": 5,
+    "memory_turns": 4,
+    "response": "In the Brong Ahafo Region, now known as Ahafo Region, in 2020, Nana Akufo Addo (NPP) won with 145,584 votes, accounting for 55.04% of the total votes. The runner-up was John Dramani Mahama (NDC) with 116,485 votes, accounting for 44.04% of the total votes [Election Data]."
   }
 ]

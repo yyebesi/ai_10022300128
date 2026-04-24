@@ -22,5 +22,13 @@
     "sources": [
       "budget.pdf"
     ]
+  },
+  {
+    "timestamp": "2026-04-24T22:51:52.705714",
+    "query": "who won the election in the brong ahafo region in 2020",
+    "response": "In the Brong Ahafo Region, now known as Ahafo Region, in 2020, Nana Akufo Addo (NPP) won with 145,584 votes, accounting for 55.04% of the total votes. The runner-up was John Dramani Mahama (NDC) with 116,485 votes, accounting for 44.04% of the total votes [Election Data].",
+    "sources": [
+      "Ghana_Election_Result.csv"
+    ]
   }
 ]

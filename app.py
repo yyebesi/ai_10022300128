@@ -11,8 +11,6 @@ from groq import Groq
 from retrieval import load_retrieval_system, retrieve, filter_results
 from main import ConversationMemory, build_memory_prompt
 
-load_dotenv()
-
 # ─────────────────────────────────────────────
 # PAGE CONFIGURATION
 # ─────────────────────────────────────────────
@@ -123,8 +121,16 @@ st.markdown("""
 
 @st.cache_resource
 def load_pipeline():
+    # Load .env inside the cached function to guarantee it runs
+    load_dotenv()
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        st.error("❌ GROQ_API_KEY not found. Please add it to your .env file.")
+        st.stop()
+
     index, chunks, model = load_retrieval_system()
-    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    client = Groq(api_key=api_key)
     return index, chunks, model, client
 
 # ─────────────────────────────────────────────
